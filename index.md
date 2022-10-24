@@ -1,1 +1,1 @@
-I'm a software engineer at DEKA R&D. I blog about robotics and natural language processing.
+I'm a software engineer at DEKA R&D. I blog about language-informed robotics and motion planning.
