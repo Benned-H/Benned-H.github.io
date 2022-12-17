@@ -7,11 +7,10 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Benned Hedegaard
-description: I’m a software engineer at DEKA R&D. I blog about language-informed robotics and motion planning.
 github_username: Benned-H
 
 # Email and twitter are optional:
-email:
+email: bhedegaa@u.rochester.edu
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
